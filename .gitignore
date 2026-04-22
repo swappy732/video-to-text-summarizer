@@ -1,2 +1,3 @@
 pycache/
 *.pycaudio.wav.env
+firebase_key.json
